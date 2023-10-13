@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Robbi-fu Weapon Sounds" modversion="1.0.1" corepackage="False" steamworkshopid="2986770739" gameversion="1.0.21.0">
+  <Item file="%ModDir%/coilgun/rob-coilgun.xml" />
+  <Item file="%ModDir%/chaingun/rob-chaingun.xml" />
+</contentpackage>

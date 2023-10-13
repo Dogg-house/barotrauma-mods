@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Doggy Door" modversion="1.0.0" corepackage="False" gameversion="1.0.21.0">
+  <ItemAssembly file="%ModDir%/Doggy Door.xml" />
+</contentpackage>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Doggy Horn" modversion="1.0.0" corepackage="False" steamworkshopid="3042126196" gameversion="1.0.21.0">
+  <Item file="%ModDir%/Doggy Horn.xml" />
+</contentpackage>

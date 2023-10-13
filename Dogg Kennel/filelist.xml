@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Dogg Kennel" modversion="1.0.1" corepackage="False" steamworkshopid="2986734710" gameversion="1.0.21.0">
+  <Submarine file="%ModDir%/Dogg Kennel.sub" />
+</contentpackage>

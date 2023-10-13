@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Dogg Poster 1" identifier="dogg_poster_1" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_1.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 2" identifier="dogg_poster_2" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_2.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 3" identifier="dogg_poster_3" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_3.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 4" identifier="dogg_poster_4" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_4.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 5" identifier="dogg_poster_5" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_5.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 6" identifier="dogg_poster_6" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_6.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 7" identifier="dogg_poster_7" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_7.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 8" identifier="dogg_poster_8" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_8.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 9" identifier="dogg_poster_9" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_9.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+  <Item name="Dogg Poster 10" identifier="dogg_poster_10" width="512" height="512" scale="0.1" noninteractable="true" category="Decorative">
+    <sprite texture="%ModDir%/dogg_poster_10.png" sourcerect="0,0,1024,1024" depth="0.97" premultiplyalpha="false" origin="0.5,0.5" />
+  </Item>
+</Items>
